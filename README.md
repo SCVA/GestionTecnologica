@@ -6,7 +6,7 @@ Integrantes:
 <li>Esteban Elias Romero Jaimes</li> 
 <li>David Santiago Garces Benitez</li>
 </ol>
-Mapas mentales producto de innovación tecnologica e innovación en Software.
+Flujo de procesos producto de innovación tecnologica e innovación en Software.
 
 Para abrir los archivos por favor seguir los siguientes pasos:
 Para visualización abrir los archivos con extensión SVG.
